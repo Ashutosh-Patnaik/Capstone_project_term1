@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.logo img{
+    margin-left: 1px;
+    border-radius: 50%;
+    margin-top: 10px;
+   } 
+   
+   nav ul {
+       display: flex;  
+       justify-content: space-evenly;
+       list-style: none;
+       text-align: center;
+      align-items: center;
+      background-color: black;
+   }
+   
+   a {
+       text-decoration: none;
+       cursor: pointer;
+       color: white;
+       margin-left: 100px;
+       font-family: 'kufam', cursive;
+   }
+body{
+    background-image: url("./images/effects-background.jpg");
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Kufam', cursive;
+}
+
+h2{
+    margin-left: 90px;
+    margin-top: 30px;
+    font-family: 'Kufam', cursive;
+}
+
+h3{
+    margin-left: 90px;
+    padding-top: 20px;
+    font-family: 'Kufam', cursive;
+}
+
+.life img{
+    margin-left: 900px;
+    top: 225px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.resources img{
+    margin-left: 900px;
+    margin-top: -250px;
+    border-radius: 10px;
+}
+
+.climate img{
+    margin-left: 900px;
+    margin-top: -250px;
+    border-radius: 10px;
+}
+

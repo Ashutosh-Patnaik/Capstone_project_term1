@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.logo img{
+    margin-left: 1px;
+    border-radius: 50%;
+    margin-top: 10px;
+   } 
+   
+   nav ul {
+       display: flex;  
+       justify-content: space-evenly;
+       list-style: none;
+       text-align: center;
+      align-items: center;
+      background-color: black;
+   }
+   
+   a {
+       text-decoration: none;
+       cursor: pointer;
+       color: white;
+       margin-left: 100px;
+       font-family: 'kufam', cursive;
+   }
+body{
+    background-image: linear-gradient(mediumslateblue, mediumpurple);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Kufam', cursive;
+    padding-top: 50px;
+}
+
+.mine img{
+    border-radius: 50%;
+    margin-left: 20px;
+}
+h3{
+    font-family: 'Kufam',cursive;
+    margin-left: 600px;
+    margin-top: -400px;
+}
+
+.second{
+    margin-left: 600px;
+    margin-top: 80px;
+    font-family: 'Kufam', cursive;
+}
+#contact{
+    margin-top: 420px;
+    margin-left: -600px;
+    cursor:pointer;
+}
+#one{
+    margin-left: 300px;
+    position: absolute;
+    top: 510px;
+}
+
+#two{
+    margin-left: 297px;
+    position: absolute;
+    top: 580px;
+}
+
+#three{
+    margin-left: 300px;
+    position: absolute;
+    top: 645px;
+}
+
+#four{
+    margin-left: 295px;
+    position: absolute;
+    top: 730px;
+}
+
+#fifth{
+    margin-left: 285px;
+    position: absolute;
+    top: 790px;
+}
+
+#sixth{
+    margin-left: 293px;
+    position: absolute;
+    top: 863px;
+    padding-top: -20px;
+}
